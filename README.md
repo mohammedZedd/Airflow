@@ -1,5 +1,5 @@
 # Airflow
-frist project with airflow 
+First project with airflow 
 
-pour la configuration de airflow sur windows , je veous suggere de voir cette video sur ytb 
-https://www.youtube.com/watch?v=N3Tdmt1SRTM
+"Pour configurer Airflow sur Windows pour votre premier projet, 
+je vous suggère de regarder cette vidéo sur YouTube : https://www.youtube.com/watch?v=N3Tdmt1SRTM."
